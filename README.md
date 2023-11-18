@@ -31,8 +31,8 @@ Step 8: Save and run the application.
 ## Program:
  ```
 Program to print the contact details by creating own content providers in Android Studio
-Developed by: Dharshini D.S
-RegisterNumber: 212221230022 
+Developed by: Lathika Sunder
+RegisterNumber: 212221230054
 ```
 
 ## MainActivity.java:
